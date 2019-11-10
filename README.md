@@ -1,5 +1,5 @@
 # Text-based-RPG
-a game
+A simple game
 
 # How to play
 Simply just follow the instructions in game. Only thing you have to do is typing numbers (other characters might broke the game). There is a 'help' section in game which i hope is enough for users to understand. 
